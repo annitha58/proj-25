@@ -44,6 +44,7 @@ function draw() {
   dustbin.display();
   paper.display();
   ground.display();
+  keyPressed();
 
   drawSprites();
 }
